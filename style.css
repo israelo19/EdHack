@@ -1,0 +1,202 @@
+body { 
+
+}
+ p{
+  text-align: left;
+  color: lightblue;
+  border: 10px;
+  border-color: navy; /* This won't compute as long as there is the border px is set to 0 */
+}
+
+h1{
+  font-size: 6vw;
+  text-align: center;
+  color: green;
+  border: 5px;
+  border-color: green;
+}
+
+h2 {
+  text-align: center;
+  color: orange;
+  border-color: rgb(12, 194, 139);
+  border-width: 0px;
+  border-style: groove;
+}
+
+h3{
+  font-size: 4vw;
+  text-align: center;
+  color: lightgreen;
+  border: 10px;
+  border-color: navy;
+}
+
+h4{
+ text-align: center;
+ color: lightgreen;
+ border: 10px;
+ border-color: navy;
+}
+h5{
+  font-size: 4vw;
+  text-align: center;
+  color: green;
+}
+
+h2 {
+  text-align: center;
+  color: orange;
+  border-color: rgb(12, 194, 139);
+  border-width: 0px;
+  border-style: groove;
+}
+
+
+button{
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
+button1{
+  background-color: lightcoral; 
+  border: none;
+  color: white;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
+textLeft{
+  text-align: left;
+  font-size: 3vw;
+  color: navy; 
+}
+
+textRight{
+  text-align: right;
+  font-size: 3vw;
+  color: navy; 
+}
+
+button2{
+  background-color: lightcoral; 
+  border: none;
+  color: greenyellow;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
+
+button3{
+  background-color: lightcoral; 
+  border: none;
+  color: lightskyblue;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
+
+button4{
+  background-color: lightcoral; 
+  border: none;
+  color: greenyellow;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
+
+button5{
+  background-color: lightcoral; 
+  border: none;
+  color: lightskyblue;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
+
+button6{
+  background-color: lightcoral; 
+  border: none;
+  color: greenyellow;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
+
+button7{
+  background-color: lightcoral; 
+  border: none;
+  color: lightskyblue;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
+
+button8{
+  background-color: lightcoral; 
+  border: none;
+  color: greenyellow;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
+
+button9{
+  background-color: lightcoral; 
+  border: none;
+  color: lightskyblue;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
+
+button10{
+  background-color: lightcoral; 
+  border: none;
+  color: greenyellow;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
+
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button11{
+  background-color: navy; 
+  border: none;
+  color: yellowgreen;
+  padding: 2vw;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 3vw;
+}
