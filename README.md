@@ -1,2 +1,2 @@
 # EdHack
-Education Hack
+Education Hack submission
